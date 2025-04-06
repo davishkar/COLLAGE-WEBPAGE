@@ -1,105 +1,133 @@
-# Jeevan Prabodhini Kanya Mahavidyalaya Website
+# Jeevan Prabodhini Kanya Mahavidyalaya (Demo Website)
 
-This is a demonstration website for Jeevan Prabodhini Kanya Mahavidyalaya, Vita. The website is created for educational and testing purposes only.
+> ⚠️ **Disclaimer**  
+> This website is a **non-official demonstration project** created solely for **educational and testing purposes**. It is **not affiliated with, endorsed by, or connected to Jeevan Prabodhini Kanya Mahavidyalaya, Vita** in any official capacity.  
+> The information, images, and content on this website are placeholders and **do not reflect the actual operations, policies, or personnel** of the institution.  
+> For accurate and official information, please refer to the **official website or authorized communication channels** of the college.
 
-## Disclaimer
+---
 
-This is a demonstration website created for educational and testing purposes only. This is not the official website of Jeevan Prabodhini Kanya Mahavidyalaya, Vita. The content displayed on this website is for demonstration purposes and may not reflect the actual information of the institution. For official information, please visit the authorized website of the institution.
+## 📌 Project Overview
 
-## Project Overview
+This is a responsive demonstration website for a college, developed to showcase web development skills and front-end design practices. The layout and content simulate a real-world academic institution website.
 
-This is a responsive college website built using:
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- jQuery
+**Tech Stack:**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap**
+- **jQuery**
 
-## Features
+---
 
-- Responsive design that works on all devices
-- Modern and clean user interface
-- Interactive elements and animations
-- Contact information and location map
-- Department information
-- Faculty details
-- News and announcements section
-- Photo gallery
-- Important links and resources
+## 🎯 Features
 
-## Project Structure
+- Responsive design (mobile-first)
+- Clean, modern user interface
+- Department and faculty information
+- Announcements and events section
+- Contact form and embedded Google Maps
+- Photo gallery with sliders
+- External resource links
+
+---
+
+## 📁 Project Structure
 
 ```
-COLLAGE-WEBPAGE/
+College_Page/
 ├── css/              # Stylesheets
 ├── js/               # JavaScript files
 ├── images/           # Image assets
-├── index.html        # Main website file
-└── License           # License information
+├── index.html        # Main HTML file
+└── License           # Licensing information
 ```
 
-## Setup Instructions
+---
 
-1. Clone the repository:
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository**  
    ```bash
-   git clone [[repository-url](https://github.com/davishkar/College_Page.git)]
+   git clone https://github.com/davishkar/College_Page.git
    ```
 
-2. Navigate to the project directory:
+2. **Navigate to the project folder**  
    ```bash
    cd College_Page
    ```
 
-3. Open `index.html` in your web browser to view the website.
-
-## Dependencies
-
-The project uses the following external libraries and frameworks:
-- Bootstrap
-- jQuery
-- Font Awesome
-- Google Fonts
-- Revolution Slider
-- FlexSlider
-- BX Slider
-
-## Browser Support
-
-The website is compatible with:
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
-- Safari
-- Opera
-
-## Development
-
-To modify or enhance the website:
-
-1. Edit the HTML files in the root directory
-2. Modify styles in the `css` directory
-3. Update JavaScript functionality in the `js` directory
-4. Add new images to the `images` directory
-
-## Contributing
-
-This is a demonstration project. Contributions are welcome for educational purposes only.
-
-## License
-
-This project is licensed under the terms specified in the License file.
-
-## Contact
-
-For any queries or suggestions, please contact the developer.
-
-## Credits
-
-- Design and Development: Avishkar Deshmukh
-- Images and Content: For demonstration purposes only
-- Icons: Font Awesome
-- Fonts: Google Fonts
+3. **Open in your browser**  
+   Double-click `index.html` or use a live server.
 
 ---
 
-**Note**: This is a demonstration website and not the official website of Jeevan Prabodhini Kanya Mahavidyalaya, Vita. 
+## 📦 Dependencies
+
+The project uses the following external libraries and plugins:
+
+- [Bootstrap](https://getbootstrap.com/)
+- [jQuery](https://jquery.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Revolution Slider](https://www.themepunch.com/)
+- [FlexSlider](https://woocommerce.com/flexslider/)
+- [BX Slider](https://bxslider.com/)
+
+---
+
+## 🌐 Browser Compatibility
+
+Tested and compatible with:
+
+- Google Chrome  
+- Mozilla Firefox  
+- Microsoft Edge  
+- Safari  
+- Opera  
+
+---
+
+## 🛠️ Development Notes
+
+To make changes:
+
+- Edit HTML files in the root directory
+- Update styling in the `/css` directory
+- Modify scripts in the `/js` directory
+- Add or replace assets in `/images`
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome for learning purposes only. If you wish to contribute:
+
+- Fork the repository
+- Make your changes in a new branch
+- Submit a pull request
+
+---
+
+## 📜 License
+
+This project is distributed under the terms specified in the [License](./License) file. All third-party libraries are subject to their respective licenses.
+
+---
+
+## 📧 Contact
+
+For questions or suggestions, please contact:  
+**Developer:** Avishkar Deshmukh  
+📩 *[https://github.com/davishkar]*
+
+---
+
+## 🏷️ Credits
+
+- **Design & Development:** Avishkar Deshmukh  
+- **Icons:** [Font Awesome](https://fontawesome.com/)  
+- **Fonts:** [Google Fonts](https://fonts.google.com/)  
+- **Images & Content:** Used for demonstration only; not representative of the actual institution
